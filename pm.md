@@ -1,7 +1,5 @@
 # Project Management Job at Nifty Chess
 
-# Front End Dev Contractor at Nifty Chess
-
 ## About
 
 We're building Treasure Chess - an app that adds achievements, NFTs, trading cards, and a maretplace to the age old classic of chess. There are more possible games of chess than atoms in the universe and each game is collaborative work of art between two players.
