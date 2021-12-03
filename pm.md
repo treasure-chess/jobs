@@ -1,4 +1,4 @@
-# Project Management Job at Nifty Chess
+# Project Management Job Nifty Chess
 
 ## About
 
