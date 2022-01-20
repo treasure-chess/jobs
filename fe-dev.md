@@ -27,7 +27,7 @@ fair:
 
 ethical:
 
-- protections that limit how much people can ape in if they are new to NFTs
+- protections that limit how much people can ape in if they are new to NFTs, but super tools for power users.
 
 ## Requirements
 
