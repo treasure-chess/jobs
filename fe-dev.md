@@ -16,7 +16,7 @@ We are building something really interactive, fun, and more interesting than big
 
 UX:
 
-- Users can log in with web2 account and be given an Ethereum address
+- Users can log in with web2 account and be given a crypto address 
 - Runs on a scalable Layer2 network (sustainable: creating items uses similar electricity as sending an email)
 - meta transactions mean we pay all the gas for users
 - partnerships with huge brands but we still control future development
